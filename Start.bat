@@ -1,0 +1,1 @@
+jdk-11.0.8\bin\java.exe --module-path . --add-modules=javafx.controls,javafx.fxml,interacto.javafx,interacto.java.api,spoon.core,org.eclipse.jdt.core,annotations -jar visualisation-1.1.jar
